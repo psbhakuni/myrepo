@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: Prakash
+Build-Jdk: 9.0.4
+Implementation-Title: SpringBootRestApiExample
+Implementation-Version: 1.0.0
+Implementation-Vendor-Id: com.websystique.springboot
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/SpringBootRe
+ stApiExample/
+Created-By: Maven Integration for Eclipse
+
