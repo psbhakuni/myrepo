@@ -12,6 +12,6 @@ JDK Version: version "1.7"
 
 
 **Section 3 :** 
-a)  Sonar Lint snapshot
+a)  Sonar Lint snapshot : https://github.com/psbhakuni/myrepo/blob/master/SpringBootRestApiExample/SONARLINT.docx
 
-b) Final Outpput Snapshot
+b) Final Output Snapshot : https://github.com/psbhakuni/myrepo/blob/master/SpringBootRestApiExample/Screenshots.docx
