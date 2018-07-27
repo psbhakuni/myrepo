@@ -4,6 +4,14 @@ import java.util.Comparator;
 
 import com.flightnetworks.Flight;
 
+/**
+ * Custom Comparator to sort the Flight listings based on by 
+ * - “Price” first in ascending order (lowest price first) and by 
+ * - “Departure Time” next (earlier flight first).
+ * 
+ * @author Prakash
+ *
+ */
 public class FlightComparator implements Comparator<Flight> {
 
 	@Override

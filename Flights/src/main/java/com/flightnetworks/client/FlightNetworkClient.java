@@ -11,12 +11,17 @@ import org.springframework.web.client.RestTemplate;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.flightnetworks.Flight;
 
+/**
+ * This is a sample client provided to test the application.
+ * @author Prakash
+ *
+ */
 public class FlightNetworkClient  {
 
 	private static final String HTTP_LOCALHOST_8080_SEARCH_FLIGHTS = "http://localhost:8080/searchFlights/{origin}/{destination}";
 	
 	public static void main(String args[]){
-		 getFlights("YYZ", "qww");
+		 getFlights("YYZ", "YYC");
 		
     }
 	

@@ -11,6 +11,11 @@ import com.flightnetworks.Flight;
 import com.flightnetworks.util.FileUtility;
 import com.flightnetworks.util.FlightComparator;
 
+/**
+ * Service layer to serve the results of business logic performed.
+ * @author Prakash
+ *
+ */
 @Service
 public class FlightService {
 

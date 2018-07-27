@@ -8,6 +8,11 @@ import java.util.List;
 import org.apache.commons.io.FileUtils;
 import org.apache.commons.io.LineIterator;
 
+/**
+ * Utility to perform read write on the properties files which are being used as database.
+ * @author Prakash
+ *
+ */
 public class FileUtility {
 
 	private static final String SRC_MAIN_RESOURCES = "src/main/resources";

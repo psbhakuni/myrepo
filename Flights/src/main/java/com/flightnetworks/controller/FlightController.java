@@ -10,6 +10,11 @@ import org.springframework.web.bind.annotation.RestController;
 import com.flightnetworks.Flight;
 import com.flightnetworks.service.FlightService;
 
+/**
+ * Controller class to serve Flights Demo application.
+ * @author Prakash
+ *
+ */
 @RestController
 public class FlightController {
 

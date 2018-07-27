@@ -1,5 +1,10 @@
 package com.flightnetworks;
 
+/**
+ * Class representing a single flight listing. 
+ * @author Prakash
+ *
+ */
 public class Flight {
 
 	private String origin;
